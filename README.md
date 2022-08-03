@@ -14,4 +14,4 @@ Footer
 Footer navigation
 Terms
 Privacy
-https://files.slack.com/files-pri/T5AFS7WKC-F03S2MNKGN7/aimen_2.jpg![aimen 2](https://user-images.githubusercontent.com/110491064/182712406-46db06b3-fdf5-43a8-8cb5-301a1de6f843.jpg)
+![aimen 2](https://user-images.githubusercontent.com/110491064/182712657-0ac1fade-6971-405f-a534-003d14a10201.jpg)
