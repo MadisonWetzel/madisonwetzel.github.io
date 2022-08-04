@@ -14,3 +14,9 @@ Say Hello to Aimen! 🤗
 ![aimen 2](https://user-images.githubusercontent.com/110491064/182712657-0ac1fade-6971-405f-a534-003d14a10201.jpg)
 
 Ryan is the best 😲🦎
+var Count;
+Count = 1;
+while (count <=1)  {
+window.alert('Hello Hello!!');
+Count = Count +1;
+}
